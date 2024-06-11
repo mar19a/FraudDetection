@@ -1,5 +1,8 @@
 # Credit Card Fraud Detection Analysis
 
+<img width="370" alt="Screenshot 2024-06-10 at 11 23 16 PM" src="https://github.com/mar19a/FraudDetection/assets/84360137/613688c4-6c6d-4cb5-9c90-91703db94895"> <img width="374" alt="Screenshot 2024-06-10 at 11 23 29 PM" src="https://github.com/mar19a/FraudDetection/assets/84360137/6818f36a-7aa9-455a-8985-b9bfa359bbb5">
+
+
 ## Overview
 
 This report details the methodology and insights derived from analyzing a dataset of credit card transactions to identify fraudulent activities. The primary objective was to leverage machine learning techniques to classify transactions accurately as fraudulent or non-fraudulent. This endeavor involved comprehensive data exploration, intelligent feature engineering, and strategic model selection and tuning.
